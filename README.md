@@ -134,7 +134,7 @@ To do this, after you enable administrator access to the SageMaker templates,
 
  4. Name the portfolio **SageMaker Organization Templates**.
 
- 5. Download the [**template.yml**](https://github.com/aws-samples/mlops-sagemaker-github-actions/blob/main/project/template.yml) to your computer. This template is a Cloud Formation tempalte that provisions all the CI/CD resources we need as configuarion and infrustruce as code. You can study the template in more details to see what resources are deployed as part of it. This template has been customised to integrate with GitHub and GitHub actions.
+ 5. Download the [**template.yml**](https://github.com/aws-samples/mlops-sagemaker-github-actions/blob/main/project/template.yml) to your computer. This template is a Cloud Formation template that provisions all the CI/CD resources we need as configuration and Infrastructure as code. You can study the template in more detail to see what resources are deployed as part of it. This template has been customized to integrate with GitHub and GitHub actions.
 
  6. Choose the new portfolio.
 
